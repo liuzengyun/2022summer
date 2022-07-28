@@ -1,0 +1,12 @@
+﻿bilibili搜索【斯坦福大学公开课】【深度学习李飞飞】等关键词即可检索到与pdf对应的课程
+
+pc端网页链接：https://www.bilibili.com/video/BV16L411c7pk?spm_id_from=333.337.search-card.all.click
+
+移动端在app中搜索：BV1MT4y1B7oe
+
+
+VGG代码链接：https://github.com/machrisaa/tensorflow-vgg
+                        https://github.com/chengyangfu/pytorch-vgg-cifar10
+
+ResNet代码链接：https://github.com/ry/tensorflow-resnet
+                            https://github.com/facebookarchive/fb.resnet.torch
